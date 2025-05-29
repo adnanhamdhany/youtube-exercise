@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    font-family: Roboto, Arial;
+}
+
+.search-bar{
+    display:block;
+} 
+
+.card{
+    width: 330px;
+    display: inline-block;
+    margin-right:15px;
+    vertical-align: top;
+}
+
+.thumbnail{
+    width: 330px;
+    display: block;
+}
+
+.bottom-card{
+  display: inline-block;
+  margin-top: 13px;
+}
+
+.channel-picture{
+    width: 35px;
+    vertical-align: top;
+    display: inline-block;
+}
+.bottom-right-card{
+    display: inline-block;
+    width: 280px;
+}
+.profile-picture{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.video-title{
+    margin-top: 0;
+    width: 315px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.video-author{
+    font-size: 12px;
+}
